@@ -16,6 +16,8 @@
 
 - 🌱 I’m exploring **AI-first development** with Cursor, Claude Code, ChatGPT & LLM integrations
 
+- 🧩 Open source: **[react-native-web3-kit](https://github.com/rksperax/react-native-web3-kit)** — Web3 utilities for RN wallets
+
 - 👨‍💻 All of my projects are available at [github.com/rksperax](https://github.com/rksperax)
 
 - 💬 Ask me about **react, react native, typescript, web3, wagmi & defi**
@@ -67,6 +69,7 @@ Shipped 5–6 React products from scratch with Jest & Cypress testing
 | **Sperax (DeFi)** | React, Wagmi, Ethers.js | [sperax.io](https://sperax.io/) |
 | **PICO Wallet** | React, Web3, Ethers.js | Web3 Wallet |
 | **KIMO AI** | React, TypeScript, AI | [github.com/rksperax/kimo](https://github.com/rksperax/kimo) |
+| **react-native-web3-kit** | TypeScript, Web3, RN | [github.com/rksperax/react-native-web3-kit](https://github.com/rksperax/react-native-web3-kit) |
 
 ---
 
