@@ -66,6 +66,7 @@ Shipped 5–6 React products from scratch with Jest & Cypress testing
 | Project | Stack | Link |
 |---------|-------|------|
 | **YP Club** | React Native, GraphQL, WebSocket | [ypclub.com](https://ypclub.com/) |
+| **Swellnet** | React Native | [swellnet.com/app](https://www.swellnet.com/app) |
 | **Sperax (DeFi)** | React, Wagmi, Ethers.js | [sperax.io](https://sperax.io/) |
 | **PICO Wallet** | React, Web3, Ethers.js | Web3 Wallet |
 | **KIMO AI** | React, TypeScript, AI | [github.com/rksperax/kimo](https://github.com/rksperax/kimo) |
