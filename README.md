@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working on **React Native mobile apps, Web3 wallets & DeFi frontends**
+- 🔭 I’m currently working on **web and mobile apps** — React, Next.js, TypeScript & React Native
 
 - 🌱 I’m exploring **AI-first development** with Cursor, Claude Code, ChatGPT & LLM integrations
 
