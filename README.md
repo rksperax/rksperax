@@ -30,9 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajan-kumar-b3a42414a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/master/assets/linkdin.svg" alt="rajan-kumar" height="30" width="40" /></a>
-<a href="https://github.com/rksperax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/master/assets/github.svg" alt="rksperax" height="30" width="40" /></a>
-<a href="mailto:rajankumar.it.msit@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/master/assets/gmail.svg" alt="rajankumar.it.msit@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajan-kumar-b3a42414a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/></a>
+<a href="https://github.com/rksperax" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/></a>
+<a href="mailto:rajankumar.it.msit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/></a>
 </p>
 
 ---
@@ -73,12 +73,12 @@ Shipped 5–6 React products from scratch with Jest & Cypress testing
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rksperax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rksperax&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rksperax&theme=radical" alt="GitHub profile stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rksperax&theme=radical&hide_border=true" alt="GitHub streak stats" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rksperax&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rksperax&theme=radical" alt="Top languages" />
 </p>
 
 ---
